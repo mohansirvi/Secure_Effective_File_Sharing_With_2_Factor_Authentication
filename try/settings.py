@@ -92,7 +92,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'abs',
         'USER':'postgres',
-        'PASSWORD':'1234',
+        'PASSWORD':'809491',
         'HOST':'localhost',
     }
 }
@@ -146,8 +146,8 @@ MEDIA_ROOT=os.path.join(BASE_DIR,'media')
 
 EMAIL_BACKEND='django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'izrailaryan12@gmail.com'
-EMAIL_HOST_PASSWORD =''
+EMAIL_HOST_USER = 'mohansirvi999@gmail.com'
+EMAIL_HOST_PASSWORD ='aaacyefakadidbrq'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 DEFAULT_FROM_MAIL='file<filetransferkey@gmail.com>'
